@@ -2,12 +2,12 @@
 
 Other Links: [LinkedIn](https://www.linkedin.com/in/willfbren/) | [Email](mailto:willfbren@gmail.com)
 
-## **About** 👨🏻‍💻
+## About 👨🏻‍💻
 > Full stack software engineer with a formal education and background in design. My design background heavily influences my love for creating beautiful applications and writing clean, readable code. My ability and willingness to learn enables me to thrive in new projects and places and allows me to start making a difference from day one.
 
 Currently looking for work! 👀
 
-## **Technical Projects** 💻
+## Technical Projects 💻
 
 ### Learn Creative Cloud
 > React Native application allowing users to view content about Adobe products
@@ -45,7 +45,7 @@ Currently looking for work! 👀
 in the native Spotify app
 
 
-## **Experience** 📥
+## Experience 📥
 
 ### Blanchard Systems
 Graphic and Web Designer  
@@ -63,7 +63,7 @@ Designer (Internship)
 - Designed materials and pitch decks for FitLot for the creation of public outdoor fitness parks across the New Orleans area
 
 
-## **Education** 🎓
+## Education 🎓
 
 Loyola University New Orleans  
 *Bachelors in Graphic Design - May 2015*
@@ -72,7 +72,7 @@ Flatiron School
 *Software Engineering - June 2020*
 
 
-## **Technical Skills** 🛠
+## Technical Skills 🛠
 
 ### Languages
 JavaScript, Ruby, HTML5, CSS3, SQL, GraphQL
